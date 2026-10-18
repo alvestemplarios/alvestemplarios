@@ -1,16 +1,32 @@
-## Hi there 👋
+Julio Cesar Alves de Oliveira
+Segurança Cibernética • Perícia Digital • Desenvolvimento de Software
 
-<!--
-**alvestemplarios/alvestemplarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
+Profissional com formação multidisciplinar em tecnologia, especializado em segurança cibernética, perícia digital, inteligência artificial, redes e desenvolvimento de sistemas.
+Com 30 anos de experiência na segurança pública, aplico conhecimentos de investigação, análise de riscos e tecnologia na criação de soluções digitais.
+🛠️ Áreas de atuação
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cibersegurança
+
+Perícia Digital
+
+OSINT
+
+Inteligência Artificial
+
+Linux
+
+Redes
+
+Desenvolvimento Web
+
+Computação em Nuvem
+
+
+🚀 Projetos em destaque
+- ALVES File Guardian — Gerenciamento e identificação de arquivos duplicados.
+- O Clube do Código Secreto — Plataforma educacional com jogos e desafios interativos.
+- ALVES Leitor Online — Plataforma digital de leitura.
+- Ferramentas de conversão de arquivos e documentos.
